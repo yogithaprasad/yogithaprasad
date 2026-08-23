@@ -1,132 +1,123 @@
-div align="center">
+<div align="center">
 
-<img src="./yogitha-profile-banner.svg" width="100%" alt="Yogitha Prasad - Data Analytics and AI/ML"/>
+<img src="./yogitha-profile-banner.png" width="100%" alt="Yogitha Prasad — Data Analytics and AI & Machine Learning"/>
 
 <br>
 
-
-
-
+<a href="https://www.linkedin.com/in/yogitha-prasad-2a96b9263/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:yogithaprasad5@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/yogithaprasad?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-111827?style=flat-square&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
 </div>
 
-👋 About Me
+👋 About
 
-I'm an Artificial Intelligence & Machine Learning engineering student interested in Data Analytics, Business Intelligence and Machine Learning.
+I'm an Artificial Intelligence & Machine Learning engineering student focused on Data Analytics, Business Intelligence and Machine Learning.
 
-I enjoy taking a problem from raw data to a useful result:
+I enjoy turning messy data into useful answers — from SQL and data cleaning to Power BI dashboards, statistical analysis and ML models.
 
-Collect → Clean → Analyse → Visualise → Understand → Build
+Raw Data → Clean → Analyse → Visualise → Insight → Solution
 
-📊 Data Analytics & EDA
+🧩 What I Work With
 
-🗄️ SQL & Data Cleaning
+Analytics
+Power BI · Excel · Exploratory Data Analysis · Statistics · Data Storytelling
 
-📈 Power BI & Excel
+Languages
+Python · SQL · MySQL
 
-🐍 Python
+Python Libraries
+Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · OpenCV · pydicom
 
-🤖 Machine Learning & NLP
+AI / ML
+Machine Learning · NLP · Sentiment Analysis · Computer Vision · YOLOv8
 
-🩻 Computer Vision & YOLOv8
+Tools
+Git · GitHub · Jupyter · VS Code · Google Colab
 
-🧰 Skills
-
-💻 Languages & Data
-
-
-
-
-
-📊 Analytics & Visualization
-
-
-
-
-
-
-🐍 Python Libraries
-
-
-
-
-
-
-
-
-🔧 Tools
-
-
-
-
-
-
-
-🚀 Featured Projects
-
-Project
-
-What I Built
-
-Stack
+🚀 Selected Work
 
 🩻 CliniScan
 
-Lung abnormality detection from chest X-rays
+Lung Abnormality Detection
 
-Python · YOLOv8 · OpenCV · pydicom
+YOLOv8 computer-vision project for detecting abnormalities in chest X-rays.
+
+Python YOLOv8 OpenCV pydicom
+
+View repository →
 
 📊 Executive Sales Performance
 
-Sales dashboard with YoY & profit analysis
+Power BI Dashboard
 
-Power BI · DAX
+Interactive dashboard with DAX measures, YoY growth and profit-margin analysis.
+
+Power BI DAX Data Visualization
+
+View repository →
 
 🗄️ Nashville Housing
 
-Cleaning and transforming 56K property records
+SQL Data Cleaning
 
-SQL · MySQL
+Transformed 56K property records using CTEs, self-joins and window functions.
+
+SQL MySQL Data Cleaning
+
+View repository →
 
 🧪 E-commerce A/B Testing
 
-Statistical website performance analysis
+Statistical Analysis
 
-Python · Statistics · Regression
+Analysed website performance using Z-tests, probability concepts and logistic regression.
+
+Python Statistics Regression
+
+View repository →
 
 🤖 Project Samarth
 
-Agricultural & climate Q&A system
+AI / Q&A System
 
-Python · AI
+An intelligent Q&A system focused on Indian agricultural and climate data.
+
+Python AI Q&A
+
+View repository →
 
 🎬 Sentiment NLP
 
-IMDB movie review classification
+Movie Review Classification
 
-Python · NLP · Naive Bayes
+IMDB sentiment classification using Naive Bayes and NLP techniques.
 
-🔗 Repositories
+Python NLP Naive Bayes
 
-CliniScan — Lung Abnormality Detection
+View repository →
 
-Executive Sales Performance
+<div align="center">
 
-Nashville Housing SQL
+Explore all repositories →
 
-E-commerce A/B Testing
-
-Project Samarth
-
-Movie Review Sentiment Analysis
+</div>
 
 📈 GitHub Activity
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=yogithaprasad&show_icons=true&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF" height="165" alt="GitHub stats"/>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogithaprasad&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=FFFFFF" height="165" alt="Top languages"/>
 
 </div>
 
@@ -140,7 +131,7 @@ Advanced SQL · Power BI & DAX · Data Storytelling · Machine Learning · Compu
 
 
 
-<br><br>
+<br>
 
 ⭐ Thanks for visiting my profile!
 
