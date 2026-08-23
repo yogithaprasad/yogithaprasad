@@ -1,118 +1,203 @@
 <div align="center">
 
-<img src="./yogitha-profile-banner.svg" width="100%" alt="Yogitha Prasad — Data Analytics and AI & Machine Learning"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,50:4F46E5,100:7C3AED&text=Yogitha%20Prasad&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=62&descSize=17" width="100%" alt="Yogitha Prasad header"/>
 
-<br>
+<a href="https://github.com/yogithaprasad">
+  <img src="https://komarev.com/ghpvc/?username=yogithaprasad&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1100&color=2563EB&center=true&vCenter=true&width=760&lines=Turning+raw+data+into+useful+insights.;Building+dashboards+that+tell+stories.;Cleaning+%E2%86%92+Analysing+%E2%86%92+Visualising+%E2%86%92+Modelling.;Always+learning.+Always+building." alt="Typing animation"/>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1100&color=2563EB&center=true&vCenter=true&width=780&lines=Turning+raw+data+into+useful+insights.;Building+dashboards+that+tell+stories.;Cleaning%2C+analysing+and+visualising+data.;Exploring+Machine+Learning+%26+Computer+Vision." alt="Typing animation"/>
 
-<a href="https://www.linkedin.com/in/yogitha-prasad-2a96b9263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:yogithaprasad5@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/yogithaprasad?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/yogitha-prasad-2a96b9263/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yogithaprasad5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yogithaprasad">
+    <img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
+👩‍💻 About Me
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-👋 Hello, I'm Yogitha
+I'm an Artificial Intelligence & Machine Learning engineering student interested in turning data into decisions and building practical ML solutions.
 
-I'm an Artificial Intelligence & Machine Learning engineering student with a strong interest in Data Analytics, Business Intelligence and Machine Learning.
+I enjoy working across the complete journey:
 
-I enjoy turning messy datasets into something people can actually understand and use.
+Raw Data → Cleaning → Analysis → Visualization → Insight → Model
 
-✦ What I enjoy
+📊 Interested in Data Analytics & Business Intelligence
 
-📊 Data analysis & exploratory data analysis
+🐍 Building with Python & SQL
 
-📈 Interactive dashboards & data storytelling
+📈 Creating dashboards with Power BI & Excel
 
-🐍 Python & SQL
+📉 Exploring data visualization & statistical analysis
 
-📑 Excel & Power BI
+🤖 Working with Machine Learning, NLP & Computer Vision
 
-📉 Statistical analysis & hypothesis testing
+🩻 Building image-based ML projects with YOLOv8
 
-🤖 Machine Learning, NLP & sentiment analysis
-
-🩻 Computer Vision & YOLOv8
-
-🧹 Data cleaning & transformation
-
-🚀 Learning by building practical projects
+🚀 Learning by building real projects
 
 </td>
+<td width="40%" valign="top">
 
-<td width="38%" valign="top">
+🔎 Focus Areas
 
-🎯 My Focus
-
-DATA ANALYTICS
-████████████████████
-
-DATA VISUALIZATION
-███████████████████░
-
-SQL
-██████████████████░░
-
-MACHINE LEARNING
-████████████████░░░░
-
-COMPUTER VISION
-██████████████░░░░░░
-
-NLP
-█████████████░░░░░░░
+Data Analytics       ████████████████████
+Data Visualization   ███████████████████░
+SQL                  ██████████████████░░
+Machine Learning     ████████████████░░░░
+Computer Vision      ██████████████░░░░░░
+NLP                  █████████████░░░░░░░
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+🛠️ My Tech Stack
 
-🧰 Tech Stack
+💻 Languages
 
-💻 Languages & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=light" alt="Python and SQL"/>
+</p>
 
+Area
 
+Technologies
 
+Programming
 
+Python
+
+Querying
+
+SQL / MySQL
+
+Markup & Notebooks
+
+Markdown · Jupyter
 
 📊 Analytics & Visualization
 
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+Visualization: Power BI · Excel · Matplotlib · Seaborn
 
+Analytics: Data Cleaning · EDA · Statistical Analysis · Hypothesis Testing · Dashboarding · Data Storytelling
 
+🧰 Python Libraries
 
+<table>
+<tr>
+<td align="center" width="25%">
 
-🐍 Python Libraries
+🐼 Pandas
 
+Data manipulation
+& analysis
 
+</td>
+<td align="center" width="25%">
 
+🔢 NumPy
 
+Numerical computing
+& arrays
 
+</td>
+<td align="center" width="25%">
 
+📈 Matplotlib
 
+Charts
+& visualization
+
+</td>
+<td align="center" width="25%">
+
+🌊 Seaborn
+
+Statistical
+visualization
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🤖 Scikit-learn
+
+ML algorithms
+& evaluation
+
+</td>
+<td align="center">
+
+👁️ OpenCV
+
+Image processing
+& computer vision
+
+</td>
+<td align="center">
+
+🩻 pydicom
+
+Medical image
+processing
+
+</td>
+<td align="center">
+
+🎯 Ultralytics
+
+YOLOv8
+object detection
+
+</td>
+</tr>
+</table>
 
 🤖 AI / ML
 
-Classification · Regression · NLP · Sentiment Analysis · Computer Vision · Object Detection · Statistical Analysis
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square"/>
+</p>
+
+Concepts: Classification · Regression · Model Comparison · NLP · Sentiment Analysis · Computer Vision · Object Detection · Statistical Testing
 
 🔧 Tools & Platforms
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=light" alt="Git GitHub Jupyter VS Code"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827"/>
+</p>
 
+🚀 Featured Work
 
-
-
-
-
-</div>
-
-🚀 Featured Projects
+<div align="center">
 
 <table>
 <tr>
@@ -124,9 +209,9 @@ Lung Abnormality Detection
 
 Computer-vision project for detecting lung abnormalities in chest X-rays using YOLOv8.
 
-Python · YOLOv8 · OpenCV · pydicom
+Python YOLOv8 OpenCV pydicom
 
-View Repository →
+<a href="https://github.com/yogithaprasad/CliniScan-Lung-Abnormality-Detection"><b>VIEW PROJECT →</b></a>
 
 </td>
 
@@ -138,9 +223,9 @@ Power BI Dashboard
 
 Interactive analytics dashboard with DAX measures, YoY growth and profit-margin analysis.
 
-Power BI · DAX · Data Visualization
+Power BI DAX Data Visualization
 
-View Repository →
+<a href="https://github.com/yogithaprasad/Executive-Sales-Performance-Dashboard"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
@@ -152,11 +237,11 @@ View Repository →
 
 SQL Data Cleaning
 
-Cleaned and transformed 56K property records using CTEs, self-joins and window functions.
+Transformed 56K property records using CTEs, self-joins and window functions.
 
-SQL · MySQL · Data Cleaning
+SQL MySQL Data Cleaning
 
-View Repository →
+<a href="https://github.com/yogithaprasad/Nashville-Housing-Data-Cleaning-SQL"><b>VIEW PROJECT →</b></a>
 
 </td>
 
@@ -168,9 +253,9 @@ Statistical Analysis
 
 Analysed website performance using Z-tests, probability concepts and logistic regression.
 
-Python · Statistics · Regression
+Python Statistics Regression
 
-View Repository →
+<a href="https://github.com/yogithaprasad/Ecommerce-AB-Testing-Regression-Analysis"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
@@ -184,9 +269,9 @@ AI / Q&A System
 
 An intelligent Q&A system focused on Indian agricultural and climate data.
 
-Python · AI · Q&A
+Python AI Q&A
 
-View Repository →
+<a href="https://github.com/yogithaprasad/Project-Samarth"><b>VIEW PROJECT →</b></a>
 
 </td>
 
@@ -196,19 +281,15 @@ View Repository →
 
 Movie Review Classification
 
-IMDB sentiment classification using Naive Bayes and NLP techniques.
+Classifies IMDB movie reviews using Naive Bayes and NLP techniques.
 
-Python · NLP · Naive Bayes
+Python NLP Naive Bayes
 
-View Repository →
+<a href="https://github.com/yogithaprasad/Movie-review-sentiment-analysis"><b>VIEW PROJECT →</b></a>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-VIEW ALL PROJECTS →
 
 </div>
 
@@ -216,66 +297,103 @@ VIEW ALL PROJECTS →
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogithaprasad&show_icons=true&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogithaprasad&show_icons=true&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=2563EB&text_color=475569&bg_color=FFFFFF" height="170" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogithaprasad&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=FFFFFF" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogithaprasad&layout=compact&hide_border=true&title_color=2563EB&text_color=475569&bg_color=FFFFFF" height="170" alt="Top languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=yogithaprasad&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=475569&dates=64748B&background=FFFFFF" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=yogithaprasad&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=475569&dates=64748B&background=FFFFFF" alt="GitHub streak"/>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🌱 Currently Learning
-
-Advanced SQL
-
-Power BI & DAX
-
-Data storytelling
-
-Machine Learning
-
-Computer Vision
-
-DSA & problem solving
-
-</td>
-
-<td width="50%" valign="top">
-
-🧭 My Workflow
-
-📥 Collect
-   ↓
-🧹 Clean
-   ↓
-🔎 Explore
-   ↓
-📊 Visualize
-   ↓
-💡 Insight
-   ↓
-🤖 Model
-   ↓
-🚀 Solution
-
-</td>
-</tr>
-</table>
+🧭 My Learning Path
 
 <div align="center">
 
-✨ Clean Data · Clear Insights · Better Decisions
+                    DATA
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+     ANALYZE      VISUALIZE     MODEL
+        │            │            │
+      Python       Power BI    Scikit-learn
+        │            │            │
+       SQL          Excel       YOLOv8
+        │            │            │
+        └────────────┼────────────┘
+                     ▼
+              BUSINESS INSIGHTS
+                     │
+                     ▼
+              BETTER DECISIONS
 
+</div>
 
+🌱 Currently Learning
+
+📚 Area
+
+🔍 Focus
+
+Data Analytics
+
+EDA · Business Questions · Data Storytelling
+
+SQL
+
+Queries · CTEs · Joins · Window Functions
+
+Power BI
+
+DAX · KPIs · Interactive Dashboards
+
+Machine Learning
+
+Classification · Regression · Model Evaluation
+
+Computer Vision
+
+Image Processing · Object Detection · YOLO
+
+DSA
+
+Problem Solving · Arrays · Algorithms
+
+🏆 What I Like Building
+
+📥 Raw Data
+    ↓
+🧹 Clean & Prepare
+    ↓
+🔎 Explore & Understand
+    ↓
+📊 Visualize
+    ↓
+💡 Find Insights
+    ↓
+🤖 Build Models
+    ↓
+🚀 Turn Results Into Solutions
+
+<div align="center">
+
+💬 Let's Connect
+
+<a href="https://www.linkedin.com/in/yogitha-prasad-2a96b9263/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:yogithaprasad5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/yogithaprasad">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-⭐ Thanks for visiting my profile!
+✨ Analyze · Visualize · Build · Learn ✨
 
 </div>
