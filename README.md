@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./yogitha-profile-banner.png" width="100%" alt="Yogitha Prasad — Data Analytics and AI & Machine Learning"/>
+<img src="./yogitha-profile-banner.svg" width="100%" alt="Yogitha Prasad — Data Analytics and AI & Machine Learning"/>
 
 <br>
 
